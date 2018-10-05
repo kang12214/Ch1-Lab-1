@@ -5,5 +5,5 @@ int main(void)
 {
 	printf("Welcome to C!\n");
 	system("pause");
-	return 0;
+	return 0;  
 }
